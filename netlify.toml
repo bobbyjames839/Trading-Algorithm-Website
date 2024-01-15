@@ -1,2 +1,5 @@
 [build]
-  functions = "app/functions"
+  command = "# no build command"
+  functions = "netlify/functions"
+  publish = "."
+
