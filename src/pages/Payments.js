@@ -39,7 +39,7 @@ export const Payments = () => {
 
             <div className='payments-left-top'>
               <p className='payments-sub-title'>Elevate your trading today.</p>
-              <p className='payments-price'><span>£39.99</span>£27.99</p>
+              <p className='payments-price'><span>£28.57</span>£20.00</p>
             </div>
 
             <p className='payments-title'>EdgeAlgo Indicator</p>
