@@ -19,13 +19,13 @@ export const Attributes = () => {
           <button className='access-btn-top' onClick={() => (navigate('/payments'))}>Gain access now</button>
         </div>
         <div className="attributes-right">
-          <img className='img-top' src={img}/>
+          <img className='img-top' src={img} alt='Trading image'/>
         </div>
       </div>
 
       <div className="attributes-inner">
         <div className="attributes-right-bottom">
-          <img className='img-bottom' src={img1}/>
+          <img className='img-bottom' src={img1} alt='Trading image'/>
         </div>
       
         <div className="attributes-left ai-left-bottom">

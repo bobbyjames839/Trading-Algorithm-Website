@@ -55,7 +55,7 @@ export const Payments = () => {
           </div>
 
           <div className='payments-right'>
-            <img className='payments-image' src={img}></img>
+            <img className='payments-image' src={img} alt='Trading image'></img>
           </div>
         </div>
       </div>

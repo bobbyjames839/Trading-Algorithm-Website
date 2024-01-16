@@ -7,7 +7,7 @@ export const MenuCover = (props) => {
       {props.cover && <div className="menu-cover">
         <div className="menu-cover-inner">
           <button className='menu-hide-button' onClick={() => props.setCover(prev => !prev)}><i className='fa fa-chevron-up'></i></button>
-          <img src={img}/>
+          <img src={img} alt='Logo'/>
           <a href='/'>Home</a>
           <span className='menu-separater'></span>
           <a href='/about-us'>About Us</a>

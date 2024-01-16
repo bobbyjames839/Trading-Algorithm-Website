@@ -31,7 +31,7 @@ export const Footer = (props) => {
 
         <div className="footer-middle-right">
           <div className="footer-logo">
-            <img src = {img}/>
+            <img src = {img} alt='Logo'/>
           </div>
           <div className="socials">
             <i className="fa fa-instagram"></i>

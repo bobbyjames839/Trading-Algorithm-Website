@@ -1,4 +1,3 @@
-import { useState } from 'react';
 import { useNavigate } from 'react-router-dom'
 import img from '../images/logo.png'
 
@@ -9,7 +8,7 @@ export const Header = (props) => {
   return (
     <div className='header'>
       <div className='header-left'>
-        <img src = {img}/>
+        <img src = {img} alt='Logo'/>
       </div>
 
       <div className='header-right'>
