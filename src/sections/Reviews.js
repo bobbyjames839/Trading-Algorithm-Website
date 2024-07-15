@@ -21,10 +21,10 @@ export const Reviews = () => {
     <div className="reviews" id='reviews'>
       <p className="reviews-header">Reviews</p>
       <div className="reviews-inner">
-        <ReviewItem name='John Paul' title='Simple to use!' desc='This trading indicator is very effective and user-friendly. As a beginner I have foudn it useful and I highly recommend it.'/>
-        <ReviewItem name='Jane Smith' title='Highly effective!' desc='This trading indicator has significantly improved my trading performance. It is easy to understand and apply.'/>
-        <ReviewItem name='Robert Johnson' title='Excellent tool!' desc='I have found this trading indicator to be extremely useful. It provides accurate signals and has helped me make profitable trades.'/>
-        <ReviewItem name='Emily Turner' title='Remarkable!' desc="this is a fake review"/>
+        <ReviewItem name='John Paul' title='Simple to use!' desc='this is a fake review this is a fake review this is a fake review this is a fake review'/>
+        <ReviewItem name='Jane Smith' title='Highly effective!' desc='this is a fake review this is a fake review this is a fake review this is a fake review'/>
+        <ReviewItem name='Robert Johnson' title='Excellent tool!' desc='this is a fake review this is a fake review this is a fake review this is a fake review'/>
+        <ReviewItem name='Emily Turner' title='Remarkable!' desc="this is a fake review this is a fake review this is a fake review this is a fake review"/>
       </div>
     </div>
   )
